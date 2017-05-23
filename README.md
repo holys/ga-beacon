@@ -1,4 +1,4 @@
-[![Analytics](http://ali.holys.im:9091/UA-99752193-1/test-ga)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](http://ali.holys.im:9091/UA-99752193-1/test-ga)](https://github.com/holys/ga-beacon)
 
 # Google Analytics Beacon [![Analytics](https://ga-beacon.appspot.com/UA-71196-10/ga-beacon/readme?pixel)](https://github.com/igrigorik/ga-beacon)
 
